@@ -100,7 +100,7 @@ const settings = JSON.parse(fs.readFileSync('./settings.json'))
 const _registered = JSON.parse(fs.readFileSync('./database/registered.json'))
 const kickarea = JSON.parse(fs.readFileSync('./database/kickarea.json'))
 const scommand = JSON.parse(fs.readFileSync('./database/scommand.json'))
-// const autosticker = JSON.parse(fs.readFileSync('./database/autosticker.json'))
+const autosticker = JSON.parse(fs.readFileSync('./database/autosticker.json'))
 const truth = JSON.parse(fs.readFileSync('./database/truth.json'))
 const dare = JSON.parse(fs.readFileSync('./database/dare.json'))
 
