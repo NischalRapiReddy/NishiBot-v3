@@ -7,7 +7,7 @@
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NischalRapiReddy/Nishi-Bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NischalRapiReddy/NishiBot-v3/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
